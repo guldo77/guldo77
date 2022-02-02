@@ -1,4 +1,4 @@
-### Hi there 👋
+### d
 
 <!--
 **Guldan45/Guldan45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://github.com/Guldan45/Guldan45/blob/main/giphy.mp4
