@@ -2,8 +2,8 @@
 # **Hello I'm Guldan developer main in C++, Python and Lua as well as external computing (Hardware)**
 
 
+![d6f25bba130398ce9eea189594e2a329](https://user-images.githubusercontent.com/98873011/152565504-3b70fa15-2ef1-40e0-aa63-4d272433b337.jpg)
 
-![header illidan](https://user-images.githubusercontent.com/98873011/152193823-bf64b0bf-fb59-444b-879d-1059155690e7.gif)
 
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) Programming languages:
