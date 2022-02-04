@@ -1,6 +1,4 @@
-{
---text-normal: rgb(31, 187, 17);
-}
+
 **Hello I'm Guldan developer mainly in C++, Python and Lua as well as external computing (Hardware)**
 
 
