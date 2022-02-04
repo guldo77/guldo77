@@ -21,7 +21,7 @@
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) Hardware
 
 
-![WaterCooling](https://img.shields.io/badge/Water.Cooling.Custom-1BDED5?style=for-the-badge&logo=rainmeter&logoColor=purple)
+![WaterCooling](https://img.shields.io/badge/Water.Cooling.Custom-20CEC6?style=for-the-badge&logo=rainmeter&logoColor=purple)
 ![Overcloking](https://img.shields.io/badge/Overclocking-FF0000?style=for-the-badge&logo=pcgamingwiki&logoColor=black)
 ![AMD](https://img.shields.io/badge/AMD-C05555?style=for-the-badge&logo=amd&logoColor=black)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-36BF6E?style=for-the-badge&logo=nvidia&logoColor=black)
