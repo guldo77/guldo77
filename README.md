@@ -7,10 +7,12 @@
 ![header illidan](https://user-images.githubusercontent.com/98873011/152193823-bf64b0bf-fb59-444b-879d-1059155690e7.gif)
 
 
-## ![ezgif-7-ceec182e71](https://user-images.githubusercontent.com/98873011/152515439-f6ea47f6-b560-4af8-a274-11fd16000e94.gif)  Programming languages:
+## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) Programming languages:
 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 
