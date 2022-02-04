@@ -25,7 +25,8 @@
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) Framework
 
 ![CurseForge](https://img.shields.io/badge/CurseForge-FF0000?style=for-the-badge&logo=curseforge&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft-Excel-FF0000?style=for-the-badge&logo=microsoftexcel&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=black)
+![MicrosoftAccess](https://img.shields.io/badge/Microsoft-Access-FF0000?style=for-the-badge&logo=microsoftexcel&logoColor=black)
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) System OS:
 
