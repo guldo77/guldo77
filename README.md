@@ -6,8 +6,9 @@
 
 ![header illidan](https://user-images.githubusercontent.com/98873011/152193823-bf64b0bf-fb59-444b-879d-1059155690e7.gif)
 
-## ![860137298741035058](https://user-images.githubusercontent.com/98873011/152514786-580dd3eb-2d7b-4b57-97ef-246043888268.gif)  Programming languages:
+## ![ezgif-7-52b5fcb3fd](https://user-images.githubusercontent.com/98873011/152515128-2ced3104-b2b5-4525-b0c3-3741cff55802.gif)  Programming languages:
 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
