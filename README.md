@@ -23,6 +23,7 @@
 
 ![WaterCooling](https://img.shields.io/badge/Water.Cooling.Custom-20CEC6?style=for-the-badge&logo=rainmeter&logoColor=purple)
 ![Overcloking](https://img.shields.io/badge/Overclocking-FF0000?style=for-the-badge&logo=pcgamingwiki&logoColor=black)
+![BIOS](https://img.shields.io/badge/Bios-2718BF?style=for-the-badge&logo=amp&logoColor=red)
 ![AMD](https://img.shields.io/badge/AMD-C05555?style=for-the-badge&logo=amd&logoColor=black)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-36BF6E?style=for-the-badge&logo=nvidia&logoColor=black)
 
