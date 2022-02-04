@@ -1,5 +1,5 @@
 
-# **Hello I'm Guldan developer mainly in C++, Python and Lua as well as external computing (Hardware)**
+# **Hello I'm Guldan developer main in C++, Python and Lua as well as external computing (Hardware)**
 
 
 
