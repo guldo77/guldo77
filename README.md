@@ -24,7 +24,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NotePad++](https://img.shields.io/badge/NotePad++-800DC1?style=for-the-badge&logo=notepadplusplus&logoColor=green)
 
-## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Hardware:*
+## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Hardware:**
 
 
 ![WaterCooling](https://img.shields.io/badge/Water.Cooling.Custom-20CEC6?style=for-the-badge&logo=rainmeter&logoColor=purple)
