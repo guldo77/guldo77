@@ -33,7 +33,7 @@
 ![CurseForge](https://img.shields.io/badge/CurseForge-FF0000?style=for-the-badge&logo=curseforge&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=green)
 ![MicrosoftAccess](https://img.shields.io/badge/Microsoft-Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=red)
-![MicrosoftWord](https://img.shields.io/badge/Microsoft-Access-A4373A?style=for-the-badge&logo=microsoftword&logoColor=blue)
+![MicrosoftWord](https://img.shields.io/badge/Microsoft-Word-A4374k?style=for-the-badge&logo=microsoftword&logoColor=blue)
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) System OS:
 
