@@ -5,7 +5,8 @@
 
 
 
-## ![космонавт-космос](https://user-images.githubusercontent.com/98873011/153567451-c53441d1-914c-4335-903c-f02784b9acbd.gif) **Programming languages:**
+## ![космонавт-космос](https://user-images.githubusercontent.com/98873011/153567451-c53441d1-914c-4335-903c-f02784b9acbd.gif)
+## **Programming languages:**
 
 
 
