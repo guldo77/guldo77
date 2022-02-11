@@ -2,12 +2,10 @@
 # **Hello I'm Guldan developer main in C++, Python and Lua as well as external computing (Hardware)**
 
 
-![04e06d4a6b779e08f6f89245633d8fb7](https://user-images.githubusercontent.com/98873011/152701742-6c44fc81-687f-41c9-8358-aff1cbd418a9.gif)
-
-
-
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) Programming languages:
+
+
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-CEA314?style=for-the-badge&logo=python&logoColor=red)
