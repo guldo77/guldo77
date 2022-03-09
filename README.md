@@ -14,7 +14,7 @@
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Programming languages:**
 
 
-![NotePad++](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![NotePad++](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black)
 ![NotePad++](https://img.shields.io/badge/NotePad++-E34F26?style=for-the-badge&logo=notepadplusplus&logoColor=black)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-CEA314?style=for-the-badge&logo=python&logoColor=red)
