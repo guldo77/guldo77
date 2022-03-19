@@ -1,12 +1,13 @@
 
-# **Hello I'm Guldan developer main in C++,Python and Lua as well as external computing (Hardware)**
+# **Hello I'm Guldan developer main in Lua,Perl,HTML and CSS as well as external computing (Hardware)**
 
 
 
 
 
+![giphy](https://user-images.githubusercontent.com/98873011/159123296-f8d7ffbf-22a9-49e6-8d87-6284997d3dcb.gif)
 
-![космонавт-космос](https://user-images.githubusercontent.com/98873011/153567451-c53441d1-914c-4335-903c-f02784b9acbd.gif)
+
 
 
 
