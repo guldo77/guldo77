@@ -47,6 +47,10 @@
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **System OS:**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF3850?style=for-the-badge&logo=Linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/KaliLinux-000000?style=for-the-badge&logo=KaliLinux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-FF7328?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
 
 
