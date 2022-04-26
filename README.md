@@ -23,7 +23,7 @@
 <br>
 ![Python](https://img.shields.io/badge/python-CEA314?style=for-the-badge&logo=python&logoColor=red)
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-AA1329?style=for-the-badge&logo=V&logoColor=black)
-![Python](https://img.shields.io/badge/python-CEA314?style=for-the-badge&logo=.net&logoColor=red)
+![VisualBasic.NET](https://img.shields.io/badge/Visual_Basic.NET-512BD4?style=for-the-badge&logo=.net&logoColor=black)
 
 
 
