@@ -21,7 +21,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-CEA314?style=for-the-badge&logo=python&logoColor=red)
+<br>
 ![Python](https://img.shields.io/badge/python-CEA314?style=for-the-badge&logo=V&logoColor=red)
+<br>
 ![Python](https://img.shields.io/badge/python-CEA314?style=for-the-badge&logo=.net&logoColor=red)
 
 
