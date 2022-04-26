@@ -22,7 +22,7 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 <br>
 ![Python](https://img.shields.io/badge/python-CEA314?style=for-the-badge&logo=python&logoColor=red)
-![Python](https://img.shields.io/badge/python-CEA314?style=for-the-badge&logo=V&logoColor=red)
+![Visual Basic](https://img.shields.io/badge/Visual-Basic-CEA314?style=for-the-badge&logo=V&logoColor=red)
 ![Python](https://img.shields.io/badge/python-CEA314?style=for-the-badge&logo=.net&logoColor=red)
 
 
