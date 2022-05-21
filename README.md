@@ -1,5 +1,5 @@
 
-# **Hello I'm Guldan developer main in Lua,C,SQL,HTML and CSS as well as external computing (Hardware)**
+# **Hello I'm Guldan developer and Sys Admin main in Lua,C,SQL,HTML and CSS as well as external computing (Hardware)**
 
 
 
