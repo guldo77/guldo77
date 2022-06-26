@@ -1,5 +1,5 @@
 
-# **Hello I'm Guldan developer and Sys Admin main in Lua,C,SQL,HTML,Python And CSS as well as external computing (Hardware)**
+# **Hello I'm Guldan Developer, Sys Admin, Devops and Ethical. Programming language main in Lua,C,SQL,HTML,Python And CSS as well as external computing (Hardware)**
 
 
 
