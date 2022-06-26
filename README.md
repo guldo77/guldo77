@@ -1,19 +1,9 @@
 
 
-<font color="red"> # **Hello I'm Guldan Developer, Sys Admin, Devops and Ethical. Programming language main in Lua,C,SQL,HTML,Python And CSS as well as external computing (Hardware)** </font>
+ # **Hello I'm Guldan Developer, Sys Admin, Devops and Ethical. Programming language main in Lua,C,SQL,HTML,Python And CSS as well as external computing (Hardware)** 
 
 
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" 
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="100" height="50"
->
-  <text font-size="16" x="10" y="20">
-    <tspan fill="red">Hello</tspan>,
-    <tspan fill="green">world</tspan>!
-  </text>
-</svg>
+
 
 
 ![ezgif-4-476d534298](https://user-images.githubusercontent.com/98873011/175830172-b4b20501-d733-4a59-80ec-19826c9240b4.gif)
