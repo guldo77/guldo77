@@ -4,10 +4,8 @@
 
 
 
+![4d2756e4d0b4557832e5747d8bec9120](https://user-images.githubusercontent.com/98873011/175829858-72414b8f-2b2d-4cf8-964a-02e4e2ec1aaa.gif)
 
-
-
-![arthas (1)](https://user-images.githubusercontent.com/98873011/159123369-ed7dda88-4d25-4478-8eca-a71cb3362d8a.gif)
 
 
 
