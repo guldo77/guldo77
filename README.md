@@ -1,7 +1,7 @@
 
-```diff
-- # **Hello I'm Guldan Developer, Sys Admin, Devops and Ethical. Programming language main in Lua,C,SQL,HTML,Python And CSS as well as external computing (Hardware)**
-```
+
+<p style='color:red'> # **Hello I'm Guldan Developer, Sys Admin, Devops and Ethical. Programming language main in Lua,C,SQL,HTML,Python And CSS as well as external computing (Hardware)** </p>
+
 
 
 
