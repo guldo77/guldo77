@@ -59,6 +59,19 @@
     <br>
 ![MicrosoftWord](https://img.shields.io/badge/Microsoft-Word-2295B9?style=for-the-badge&logo=microsoftword&logoColor=blue)
 
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=AwsLambda&logoColor=white)
+
+![AWS Amplify](https://img.shields.io/badge/AWS-Amplify-FF9900?style=for-the-badge&logo=Awsamplifyd&logoColor=white)
+
+![AWS Fargate](https://img.shields.io/badge/AWSt-Fargate-FF9900?style=for-the-badge&logo=Awsfargate&logoColor=white)
+
+![AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white)
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![Ansible](https://img.shields.io/badge/Microsoft-Word-EE0000?style=for-the-badge&logo=Ansible&logoColor=white)
+
+
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **System OS:**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
