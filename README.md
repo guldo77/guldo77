@@ -67,7 +67,7 @@
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-![Ansible](https://img.shields.io/badge/Microsoft-Word-EE0000?style=for-the-badge&logo=Ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white)
 
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **System OS:**
