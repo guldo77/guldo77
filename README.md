@@ -61,7 +61,7 @@
 
 ![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=AwsLambda&logoColor=white)
 
-![AWS Amplify](https://img.shields.io/badge/AWS-Amplify-FF9900?style=for-the-badge&logo=AwsAmplifyd&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS-Amplify-FF9900?style=for-the-badge&logo=AWSAmplifyd&logoColor=white)
 
 ![AWS Fargate](https://img.shields.io/badge/AWS-Fargate-FF9900?style=for-the-badge&logo=Awsfargate&logoColor=white)
 
