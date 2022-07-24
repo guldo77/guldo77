@@ -63,9 +63,9 @@
 
 ![AWS Amplify](https://img.shields.io/badge/AWS-Amplify-FF9900?style=for-the-badge&logo=Awsamplifyd&logoColor=white)
 
-![AWS Fargate](https://img.shields.io/badge/AWSt-Fargate-FF9900?style=for-the-badge&logo=Awsfargate&logoColor=white)
+![AWS Fargate](https://img.shields.io/badge/AWS-Fargate-FF9900?style=for-the-badge&logo=Awsfargate&logoColor=white)
 
-![AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
