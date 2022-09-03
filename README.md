@@ -53,5 +53,5 @@
 ![windows](https://user-images.githubusercontent.com/98873011/188277031-00f04308-4b06-4dba-b27e-0eaab18f6da2.png)
 ![ubuntu (1)](https://user-images.githubusercontent.com/98873011/188277620-7e78bc99-491c-4eda-8d56-6c4f0a8f801b.png)
 ![debian (1)](https://user-images.githubusercontent.com/98873011/188277652-0cb86cce-0d0e-4657-a049-aa2e957d1aa4.png)
-![icons8-kali-linux-100](https://user-images.githubusercontent.com/98873011/188277942-b9363fda-36a9-48dc-8dfd-57e93490280d.png)
+![icons8-kali-linux-48](https://user-images.githubusercontent.com/98873011/188277992-1a872a47-04e0-4305-8592-4bea5f62330e.png)
 
