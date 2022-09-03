@@ -23,6 +23,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,c,cs,mysql,postgresql,v,net,python)](https://skillicons.dev)
 
+## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Interactive languages**
+
+[![My Skills](https://skillicons.dev/icons?i=bash,vim,powershell)](https://skillicons.dev)
+
 
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Programming Tool:**
@@ -30,16 +34,6 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,atom)](https://skillicons.dev)
 
 
-
-## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Hardware:**
-
-
-![WaterCooling](https://img.shields.io/badge/Water_Cooling_Custom-3499CD?style=for-the-badge&logo=rainmeter&logoColor=purple)
-![Overcloking](https://img.shields.io/badge/Overclocking-FF0000?style=for-the-badge&logo=pcgamingwiki&logoColor=black)
-<br>
-![BIOS](https://img.shields.io/badge/Bios-2718BF?style=for-the-badge&logo=amp&logoColor=red)
-![AMD](https://img.shields.io/badge/AMD-C05555?style=for-the-badge&logo=amd&logoColor=black)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-36BF6E?style=for-the-badge&logo=nvidia&logoColor=black)
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Outil and Framework:**
 
@@ -52,6 +46,4 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,docker)](https://skillicons.dev)
 ![windows](https://user-images.githubusercontent.com/98873011/188277031-00f04308-4b06-4dba-b27e-0eaab18f6da2.png)
 ![ubuntu (1)](https://user-images.githubusercontent.com/98873011/188277620-7e78bc99-491c-4eda-8d56-6c4f0a8f801b.png)
-![debian (1)](https://user-images.githubusercontent.com/98873011/188277652-0cb86cce-0d0e-4657-a049-aa2e957d1aa4.png)
-![icons8-kali-linux-48](https://user-images.githubusercontent.com/98873011/188277992-1a872a47-04e0-4305-8592-4bea5f62330e.png)
 
