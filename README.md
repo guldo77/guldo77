@@ -37,7 +37,7 @@
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Outil and Framework:**
 
-[![My Skills](https://skillicons.dev/icons?i=azure,,ansible,aws,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,ansible,aws,git,gitlab)](https://skillicons.dev)
 
 
 
