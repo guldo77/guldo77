@@ -1,10 +1,10 @@
+ <h1>
 
-
-
-
-
-
-![colortext](https://user-images.githubusercontent.com/98873011/188280946-98edf935-2b30-4ea3-88b6-ebe4598543f1.svg)
+    Hello I'm Guldan Developer, Sys Admin, Devops and Ethical.<br></br>
+    Programming language main inLua,C,SQL,HTML,Python And CSS
+    as well as external computing (Hardware)
+    
+   </h1>
 
 
 
