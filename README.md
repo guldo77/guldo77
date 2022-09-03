@@ -1,36 +1,12 @@
 
 
 
-
-![colortext](https://user-images.githubusercontent.com/98873011/188279341-4b5e6af6-96c1-4dfb-b80e-dfa47fdee16c.svg)
-
+![colortext](https://user-images.githubusercontent.com/98873011/188279400-79d6c1b5-d9f3-47b0-9936-5ffd048fd07d.svg)
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![ezgif-4-476d534298](https://user-images.githubusercontent.com/98873011/175830172-b4b20501-d733-4a59-80ec-19826c9240b4.gif)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guldan45&theme=highcontrast)](https://git.io/streak-stats)
 
