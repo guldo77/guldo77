@@ -3,7 +3,8 @@
 
 
 
-![colortext](https://user-images.githubusercontent.com/98873011/188280651-ec7bd2a4-36be-4195-917e-2bd333b40095.svg)
+![colortext](https://user-images.githubusercontent.com/98873011/188280793-d4519348-bc43-4ea8-8449-39bb810a9323.svg)
+
 
 
 
