@@ -1,10 +1,11 @@
 
 
 
-![colortext](https://user-images.githubusercontent.com/98873011/188279165-9bba5d12-37f9-4c33-a55b-0e05653b2916.svg)
 
 
 
+
+![colortext](https://user-images.githubusercontent.com/98873011/188279189-d6c80d57-28a9-4226-9643-1e5f91805c0e.svg)
 
 
 ![ezgif-4-476d534298](https://user-images.githubusercontent.com/98873011/175830172-b4b20501-d733-4a59-80ec-19826c9240b4.gif)
