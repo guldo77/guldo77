@@ -2,9 +2,11 @@
 
 
 
+![colortext](https://user-images.githubusercontent.com/98873011/188278955-732b6728-44f1-4f95-8704-c527ff8ac143.svg)
 
 
-![colortext](https://user-images.githubusercontent.com/98873011/188278934-162f74a1-8f27-4605-a4a5-b2d1cd5a7899.svg)
+
+
 
 
 
