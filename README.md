@@ -21,16 +21,7 @@
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Programming languages:**
 
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-<br>
-![Python](https://img.shields.io/badge/python-CEA314?style=for-the-badge&logo=python&logoColor=red)
-![Visual Basic](https://img.shields.io/badge/Visual_Basic-AA1329?style=for-the-badge&logo=V&logoColor=black)
-![VisualBasic.NET](https://img.shields.io/badge/Visual_Basic.NET-512BD4?style=for-the-badge&logo=.net&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,C)](https://skillicons.dev)
 
 
 
