@@ -51,6 +51,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker)](https://skillicons.dev)
 ![windows](https://user-images.githubusercontent.com/98873011/188277031-00f04308-4b06-4dba-b27e-0eaab18f6da2.png)
-![debian](https://user-images.githubusercontent.com/98873011/188277595-63e90de5-378d-4849-8d02-54b268255ecb.png)
 ![ubuntu (1)](https://user-images.githubusercontent.com/98873011/188277620-7e78bc99-491c-4eda-8d56-6c4f0a8f801b.png)
+![debian (1)](https://user-images.githubusercontent.com/98873011/188277652-0cb86cce-0d0e-4657-a049-aa2e957d1aa4.png)
+
 
