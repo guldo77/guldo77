@@ -49,7 +49,7 @@
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **System OS:**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,)](https://skillicons.dev)
 
 
 
