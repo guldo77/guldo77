@@ -1,6 +1,6 @@
 
+![colortext](https://user-images.githubusercontent.com/98873011/188278871-94de2297-865a-420a-8f80-643f8269e78c.svg)
 
-![colortext](https://user-images.githubusercontent.com/98873011/188278831-25681693-59fa-47ee-bbe7-16bb0fbe62e4.svg)
 
 
 
