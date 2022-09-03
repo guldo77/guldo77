@@ -1,40 +1,7 @@
 
-![colortext](https://user-images.githubusercontent.com/98873011/188280035-e5e71501-d9cc-46c1-b63e-18e2c94e7b57.svg)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![colortext](https://user-images.githubusercontent.com/98873011/188280071-daec1b22-3e80-41f8-ac4b-17194f76418d.svg)
 
 
 
