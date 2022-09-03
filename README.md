@@ -8,7 +8,7 @@
 
 
 
-![ezgif-4-476d534298](https://user-images.githubusercontent.com/98873011/175830172-b4b20501-d733-4a59-80ec-19826c9240b4.gif)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guldan45&theme=highcontrast)](https://git.io/streak-stats)
 
