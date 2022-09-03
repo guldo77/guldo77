@@ -21,13 +21,13 @@
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Programming languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,c,postgresql,v,net,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,c,cs,mysql,postgresql,v,net,python)](https://skillicons.dev)
 
 
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Programming Tool:**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,notepad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,atom)](https://skillicons.dev)
 
 
 
@@ -41,34 +41,15 @@
 ![AMD](https://img.shields.io/badge/AMD-C05555?style=for-the-badge&logo=amd&logoColor=black)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-36BF6E?style=for-the-badge&logo=nvidia&logoColor=black)
 
-## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Outil:**
+## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Outil and Framework:**
 
-![InkScape](https://img.shields.io/badge/Inkscape-black?style=for-the-badge&logo=Inkscape&logoColor=white)
-    <br>
-![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=green)
-    <br>
-![MicrosoftAccess](https://img.shields.io/badge/Microsoft-Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=red)
-    <br>
-![MicrosoftWord](https://img.shields.io/badge/Microsoft-Word-2295B9?style=for-the-badge&logo=microsoftword&logoColor=blue)
+[![My Skills](https://skillicons.dev/icons?i=azure,,ansible,aws,)](https://skillicons.dev)
 
-![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=AwsLambda&logoColor=white)
-
-![AWS Fargate](https://img.shields.io/badge/AWS-Fargate-FF9900?style=for-the-badge&logo=Awsfargate&logoColor=white)
-
-![AWS](https://img.shields.io/badge/Amazon-AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white)
 
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **System OS:**
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FF3850?style=for-the-badge&logo=Linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/KaliLinux-000000?style=for-the-badge&logo=KaliLinux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-FF7328?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=windows,)](https://skillicons.dev)
+
 
 
