@@ -10,7 +10,7 @@
 
 
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Guldan45&show_icons=true&theme=radical) ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Guldan45&count_private=true)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Guldan45&show_icons=true&theme=radical) [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
