@@ -10,7 +10,7 @@
 
 
 
-
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?Guldan45=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Programming languages:**
