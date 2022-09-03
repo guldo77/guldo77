@@ -7,7 +7,7 @@
 
 
 ![ezgif-4-476d534298](https://user-images.githubusercontent.com/98873011/175830172-b4b20501-d733-4a59-80ec-19826c9240b4.gif)
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Guldan45&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guldan45&layout-compact)](https://github.com/anuraghazra/github-readme-stats)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Guldan45&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guldan45&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=recount-addonscustom-3.3.5)](https://github.com/Guldan45/Recount-AddonsCustom-3.3.5)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=PriceItem-Addon-BC-1.4.0)](https://github.com/Guldan45/PriceItem-Addon-BC-1.4.0) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldan45&repo=NewUI-Vanilla-1.12)](https://github.com/Guldan45/NewUI-Vanilla-1.12)
