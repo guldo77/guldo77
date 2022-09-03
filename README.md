@@ -50,9 +50,7 @@
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **System OS:**
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker)](https://skillicons.dev)
-  ![windows](https://user-images.githubusercontent.com/98873011/188277031-00f04308-4b06-4dba-b27e-0eaab18f6da2.png)
-
-
-
-
+![windows](https://user-images.githubusercontent.com/98873011/188277031-00f04308-4b06-4dba-b27e-0eaab18f6da2.png)
+![ubuntu](https://user-images.githubusercontent.com/98873011/188277591-a7d5e9a0-c017-4caa-86a4-d816a5118d63.png)
+![debian](https://user-images.githubusercontent.com/98873011/188277595-63e90de5-378d-4849-8d02-54b268255ecb.png)
 
