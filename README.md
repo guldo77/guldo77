@@ -2,7 +2,8 @@
 
 
 
-![colortext](https://user-images.githubusercontent.com/98873011/188280584-221d6563-e221-43fc-a1e8-2d7f49f1bae3.svg)
+
+![colortext](https://user-images.githubusercontent.com/98873011/188280651-ec7bd2a4-36be-4195-917e-2bd333b40095.svg)
 
 
 
