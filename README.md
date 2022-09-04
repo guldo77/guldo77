@@ -1,4 +1,7 @@
- ![d3f7w6p-4abbfdf7-a6d8-417d-81ee-349eac60956e](https://user-images.githubusercontent.com/98873011/188306559-c81ba72f-9e42-4caa-a9ac-5d8d4c39ac2c.gif)
+
+![ezgif-1-f8d5dc50fc](https://user-images.githubusercontent.com/98873011/188306745-3f6cea8d-8198-46d9-9c34-6f7481ad3480.gif)
+
+
   <h1> ⛩️ Hello I'm Guldan Developer, Sys Admin, Devops and Ethical.<br></br>
 
      Programming language main inLua,C,SQL,HTML,Python And CSS 🩸
