@@ -1,5 +1,5 @@
  <h1>
-    Hello I'm Guldan Developer, Sys Admin, Devops and Ethical.<br></br>
+ ⛩️ Hello I'm Guldan Developer, Sys Admin, Devops and Ethical.<br></br>
     Programming language main inLua,C,SQL,HTML,Python And CSS
     as well as external computing (Hardware)  
    </h1>
