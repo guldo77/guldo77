@@ -1,8 +1,10 @@
- <h1>
- ⛩️ Hello I'm Guldan Developer, Sys Admin, Devops and Ethical.<br></br>
-    Programming language main inLua,C,SQL,HTML,Python And CSS
-    as well as external computing (Hardware)  
-   </h1>
+ ![d3f7w6p-4abbfdf7-a6d8-417d-81ee-349eac60956e](https://user-images.githubusercontent.com/98873011/188306559-c81ba72f-9e42-4caa-a9ac-5d8d4c39ac2c.gif)
+  <h1> ⛩️ Hello I'm Guldan Developer, Sys Admin, Devops and Ethical.<br></br>
+
+     Programming language main inLua,C,SQL,HTML,Python And CSS 🩸
+     as well as external computing (Hardware💻)
+   
+
 
 
 
@@ -17,6 +19,7 @@
 
 
 ![ezgif-4-476d534298](https://user-images.githubusercontent.com/98873011/175830172-b4b20501-d733-4a59-80ec-19826c9240b4.gif)
+
 
 
 
