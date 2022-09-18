@@ -1,5 +1,5 @@
 
-![ezgif-1-f8d5dc50fc](https://user-images.githubusercontent.com/98873011/188306745-3f6cea8d-8198-46d9-9c34-6f7481ad3480.gif)
+
 
 
   <h1> ⛩️ Hello I'm Guldan Developer, Sys Admin, Devops and Ethical.<br></br>
@@ -12,16 +12,9 @@
 
 
 
+![cropped-1600-900-811898](https://user-images.githubusercontent.com/98873011/190916498-1753d74b-367b-46f1-8a55-0333ad7247e8.jpg)
 
 
-
-
-
-
-
-
-
-![ezgif-4-476d534298](https://user-images.githubusercontent.com/98873011/175830172-b4b20501-d733-4a59-80ec-19826c9240b4.gif)
 
 
 
