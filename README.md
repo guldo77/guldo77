@@ -11,8 +11,7 @@
 
 
 
-
-![cropped-1600-900-811898](https://user-images.githubusercontent.com/98873011/190916498-1753d74b-367b-46f1-8a55-0333ad7247e8.jpg)
+![hacker-11](https://user-images.githubusercontent.com/98873011/227765139-8c0d1f0e-28fe-4a5e-a7ac-44f27e5e96b0.gif)
 
 
 
