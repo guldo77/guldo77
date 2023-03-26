@@ -2,7 +2,7 @@
 
 
 
-  <h1> ⛩️ Hello I'm Guldan Developer, Sys Admin, Devops and Ethical.<br></br>
+  <h1> ⛩️ Hello I'm Guldan Developer, Sys Admin, Devops and Ethical Hacker.<br></br>
 
   
 
