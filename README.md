@@ -29,7 +29,7 @@
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Programming languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,c,cs,mysql,postgresql,v,net,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,c,cs,,perlmysql,postgresql,v,net,python)](https://skillicons.dev)
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Interactive languages**
 
@@ -43,13 +43,13 @@
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Framework:**
 
-[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,pytorch,nodejs,sinfony)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,pytorch,nodejs,tailwind)](https://skillicons.dev)
 
 
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Outil:**
 
-[![My Skills](https://skillicons.dev/icons?i=sketchup,autocad,azure,ansible,aws,git,gitlab,kubernetes,webpack,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sketchup,autocad,azure,ansible,aws,git,gitlab,kubernetes,webpack,mongodb)](https://skillicons.dev)
 
 
 
