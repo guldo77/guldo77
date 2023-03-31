@@ -49,7 +49,7 @@
 
 ## ![ezgif-7-9292eb1472](https://user-images.githubusercontent.com/98873011/152515601-a53bb16a-3285-4a2b-a47e-64a9f978c4de.gif) **Outil:**
 
-[![My Skills](https://skillicons.dev/icons?i=sketchup,autocad,azure,ansible,aws,git,gitlab,kubernetes,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sketchup,autocad,azure,ansible,aws,git,gitlab,kubernetes,webpack,midjourney)](https://skillicons.dev)
 
 
 
