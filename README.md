@@ -8,7 +8,7 @@
 
 
 
-![hacker-11](https://user-images.githubusercontent.com/98873011/227765139-8c0d1f0e-28fe-4a5e-a7ac-44f27e5e96b0.gif)
+
 
 
 
