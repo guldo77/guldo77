@@ -1,12 +1,11 @@
 
 
 
-
   <h1> ⛩️ Hello I'm Guldo Developer, Sys Admin, Devops and Ethical.<br></br>
 
   
 
-![211228-Shugerman-Hackers-NFTs-tease_cfuug7](https://github.com/Guldan45/Guldo77/assets/98873011/681a99cb-df8b-4826-aeb3-4c8fdb6f1d23)
+![211228-Shugerman-Hackers-NFTs-tease_cfuug7](https://github.com/Guldo77/Guldo77/assets/98873011/681a99cb-df8b-4826-aeb3-4c8fdb6f1d23)
 
 
 
