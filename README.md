@@ -6,7 +6,7 @@
 
   
 
-![211228-Shugerman-Hackers-NFTs-tease_cfuug7](https://github.com/Guldan45/Guldan45/assets/98873011/681a99cb-df8b-4826-aeb3-4c8fdb6f1d23)
+![211228-Shugerman-Hackers-NFTs-tease_cfuug7](https://github.com/Guldan45/Guldo77/assets/98873011/681a99cb-df8b-4826-aeb3-4c8fdb6f1d23)
 
 
 
@@ -16,10 +16,10 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guldan45&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guldo77&theme=highcontrast)](https://git.io/streak-stats)
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Guldan45&show_icons=true&theme=chartreuse-dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guldan45&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Guldo77&show_icons=true&theme=chartreuse-dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guldo77&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guldo77&repo=recount-addonscustom-3.3.5&show_owner=true&theme=midnight-purple)](https://github.com/Guldo77/Recount-AddonsCustom-3.3.5)
